@@ -2,14 +2,34 @@
     margin: 0;
     padding: 0;
 }
+
 body {
     background-color: hsl(0, 0%, 8%);
-     font-family: "Inter", sans-serif;
+    font-family: "Inter", sans-serif;
+    color: white;
 }
+
 .personal-card {
     background-color: hsl(0, 0%, 12%);
+}
+.location{
+    color: hsl(295, 94%, 57%);
 }
 .link-bth {
     background-color: hsl(0, 0%, 20%);
     border: none;
+    color: white;
+    cursor: pointer;
+}
+.link-bth:hover{
+    background-color: hsl(295, 94%, 57%);
+}
+
+.attribution {
+    font-size: 0.6875rem;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
