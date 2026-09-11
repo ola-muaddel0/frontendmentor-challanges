@@ -7,17 +7,19 @@ body {
     background-color: hsl(0, 0%, 8%);
     font-family: "Inter", sans-serif;
     color: white;
-
+    height: 100vh;
 }
+
 .personal-card {
     background-color: hsl(0, 0%, 12%);
 }
 ul {
     list-style-type: none;
 }
-.location{
+.location {
     color: hsl(295, 94%, 57%);
 }
+
 .link-bth {
     background-color: hsl(0, 0%, 20%);
     color: white;
@@ -25,7 +27,8 @@ ul {
     text-decoration: none;
 
 }
-.link-bth:hover{
+
+.link-bth:hover {
     background-color: hsl(295, 94%, 57%);
 }
 
@@ -33,9 +36,11 @@ ul {
     font-size: 0.6875rem;
     text-align: center;
 }
-.profile{
+
+.profile {
     border-radius: 50%;
 }
+
 .attribution a {
     color: hsl(295, 94%, 57%);
 }
