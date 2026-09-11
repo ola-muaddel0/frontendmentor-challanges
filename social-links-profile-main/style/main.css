@@ -7,10 +7,13 @@ body {
     background-color: hsl(0, 0%, 8%);
     font-family: "Inter", sans-serif;
     color: white;
-}
 
+}
 .personal-card {
     background-color: hsl(0, 0%, 12%);
+}
+ul {
+    list-style-type: none;
 }
 .location{
     color: hsl(295, 94%, 57%);
