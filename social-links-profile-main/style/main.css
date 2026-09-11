@@ -17,9 +17,10 @@ body {
 }
 .link-bth {
     background-color: hsl(0, 0%, 20%);
-    border: none;
     color: white;
     cursor: pointer;
+    text-decoration: none;
+
 }
 .link-bth:hover{
     background-color: hsl(295, 94%, 57%);
